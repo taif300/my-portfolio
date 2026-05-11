@@ -10,6 +10,9 @@ const alexandria = Alexandria({
 export const metadata: Metadata = {
   title: "طيف الأحمدي | Portfolio",
   description: "الموقع الشخصي لطيف الأحمدي.",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({
