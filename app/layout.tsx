@@ -8,8 +8,8 @@ const alexandria = Alexandria({
 });
 
 export const metadata: Metadata = {
-  title: "Taif Al-Ahmadi | Portfolio",
-  description: "Personal portfolio website for Taif Al-Ahmadi.",
+  title: "طيف الأحمدي | Portfolio",
+  description: "الموقع الشخصي لطيف الأحمدي.",
 };
 
 export default function RootLayout({
