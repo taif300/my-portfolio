@@ -1763,7 +1763,7 @@ if (!mounted) return null;
               {isArabic ? "الجوال" : "Phone"}
             </p>
             <p className="font-bold" dir="ltr">
-              +966 55 525 7509
+              +966 560754228
             </p>
           </div>
 
