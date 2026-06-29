@@ -1753,7 +1753,7 @@ if (!mounted) return null;
 
         <motion.a
           whileHover={{ y: -5 }}
-          href="tel:+966555257509"
+          href="tel:+966560754228"
           className={`w-full bg-[#0b0c12]/90 border border-white/10 rounded-2xl p-6 flex items-center justify-between hover:border-purple-400/50 transition ${
             isArabic ? "text-right" : "text-left"
           }`}
